@@ -5,7 +5,7 @@ permalink: ':title/'
 baseurl: "/"
 url: "https://youngketer.com"
 locale: "ko_KR"
-thumbnail: "/img/everythegame_thumbnail.jpg"
+thumbnail: "/img/youngketer_thumbnail.jpg"
 copyright: youngketer.com
 
 # Author Settings
