@@ -1,0 +1,33 @@
+title: "EveryTheGame"
+tagline: "나만의 게임을 저장 하시겠습니까?"
+description: "슈퍼패미콤에서 콘솔까지! 게임의 모든것을 섭렵하다!"
+permalink: ':title/'
+baseurl: "/"
+url: "https://everythegame.com"
+locale: "ko_KR"
+thumbnail: "/img/everythegame_thumbnail.jpg"
+copyright: Every The Game
+
+# Author Settings
+author: "Every The Game"
+author-img: /img/profile.png # add your photo
+about-author: "슈퍼패미콤에서 콘솔까지! 게임의 모든것을 섭렵하다!" # add description
+social-instagram: sleeping__cho
+social-facebook: everythegame
+social-email: wwjocom88@gmail.com
+
+# 블로그 disqus shortname
+disqus:
+  shortname: everythegame-com
+
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
