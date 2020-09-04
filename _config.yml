@@ -1,17 +1,17 @@
-title: "EveryTheGame"
-tagline: "나만의 게임을 저장 하시겠습니까?"
-description: "슈퍼패미콤에서 콘솔까지! 게임의 모든것을 섭렵하다!"
+title: "영케터의 마케팅 블로그"
+tagline: "디지털마케팅"
+description: "구글,SNS광고 등 디지털 마케팅을 알고 싶다면 영케터로 오세요"
 permalink: ':title/'
 baseurl: "/"
-url: "https://everythegame.com"
+url: "https://youngketer.com"
 locale: "ko_KR"
 thumbnail: "/img/everythegame_thumbnail.jpg"
-copyright: Every The Game
+copyright: youngketer.com
 
 # Author Settings
-author: "Every The Game"
+author: "영케터"
 author-img: /img/profile.png # add your photo
-about-author: "슈퍼패미콤에서 콘솔까지! 게임의 모든것을 섭렵하다!" # add description
+about-author: "구글, SNS등 다양한 광고가 궁금하다면 주저하지 말고 들어오세요!" # add description
 social-instagram: sleeping__cho
 social-facebook: everythegame
 social-email: wwjocom88@gmail.com

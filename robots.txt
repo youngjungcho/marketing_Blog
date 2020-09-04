@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://everythegame.com/sitemap.xml
+Sitemap: https://youngketer.com/sitemap.xml
