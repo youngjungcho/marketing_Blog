@@ -56,7 +56,7 @@ tags:
 
 우선 광고하고자 하는 연결 URL뒤에 캠페인 ID를 추가해 줍니다.
 
--> https://youngketer.com/marketing_study/?utm_id=123abcs
+-> https://youngketer.com/marketing_study/?utm_id=123abc
 
 구글애널리틱스에 로그인을 한 뒤, 관리 탭에서 속성으로 이동합니다.
 
