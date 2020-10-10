@@ -74,7 +74,7 @@ Data Set type에는 여러 가지 항목들이 있는데요. 저희는 캠페인
 
 ![데이터가져오기 이미지](/img/posts/008/004.jpg)
 
-다음 단계로 넘어가면 스키마를 정의할 수 있게 되는데요. Imported Data에서 Medium과 Source를 선택하고 Overwrite hit data는 Yes로 선택하고 저장을 눌러줍니다.
+다음 단계로 넘어가면 스키마를 정의할 수 있게 되는데요. Imported Data에서 Medium과 Source, Keyword, Ad Content, Campaign을 선택하고 Overwrite hit data는 Yes로 선택하고 저장을 눌러줍니다.
 
 ![데이터가져오기 이미지](/img/posts/008/005.jpg)
 
@@ -92,10 +92,10 @@ Data Set type에는 여러 가지 항목들이 있는데요. 저희는 캠페인
 
 이제 엑셀을 만들 차례인데요. 하단에 Download schema template를 누르면 엑셀 파일이 다운을 받은 후, 해당 파일의 헤더 하단에 해당하는 값을 넣어주시면 됩니다. 
 
-| ga:campaignCode | ga:source | ga:medium | ga:campaign | ga:adcontent  | A:keyword |
-| --------------- | --------- | --------- | ----------- | ------------- | --------- |
-| 123abc          | facebook  | social    | Oct_sale    | discount      |           |
-| 456def          | naver     | cpc       | July_sale   | delivery_free | 다이어트  |
+| ga:campaignCode | ga:source | ga:medium | ga:campaign | ga:adcontent  | ga:keyword |
+| --------------- | --------- | --------- | ----------- | ------------- | ---------- |
+| 123abc          | facebook  | social    | Oct_sale    | discount      |            |
+| 456def          | naver     | cpc       | July_sale   | delivery_free | 다이어트   |
 
 값을 넣어주실 때는 어떤 데이터를 넣을 지, 어떻게 값을 넣을지도 미리 생각을 해주신 다음 작성을 해주시면 좀 더 원활하게 작성하실 수 있습니다.
 위 같이 다 작성을 한 후, CSV UTF-8 파일 형식으로 저장해주시면 됩니다.
