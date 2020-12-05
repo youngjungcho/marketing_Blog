@@ -27,9 +27,7 @@ layout: main
         <div class="page-share">
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
           <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <div class = "row">
-           <div calss="col-12"
-           <a onclick="kakaoshare();" class="btn btn-primary">카카오톡 공유하기<a>
+          <a href="https://kakao.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Kakaotalk" rel="nofollow" target="_blank">Kakaotalk</a>
         </div>
         <div class="page-tag">
           {% for tag in page.tags %}
