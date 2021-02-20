@@ -3,7 +3,7 @@ layout: post
 permalink: /Responsive_ad/
 title: '구글 광고 제작 어렵지 않아요! 반응형 광고 만들기!'
 content_id: 'google_7'
-date: 2020-02-06 18:00:00 +09:00
+date: 2021-02-20 18:00:00 +09:00
 feature: '/img/posts/010/google7_thumbnail.jpg'
 background: '/img/posts/010/google7_main.jpg'
 categories:  
